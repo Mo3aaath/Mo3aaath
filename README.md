@@ -1,5 +1,4 @@
-# Hi! My name is Muath Alwadeai, a software engineering  
-## student at KFUPM. ⭐  
+# Hi! My name is Muath Alwadeai, a Software Engineer and Novel Writer (soon). ⭐  
 Interested in:   
 - Programming  
 - Reading
