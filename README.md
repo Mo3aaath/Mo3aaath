@@ -1,4 +1,4 @@
-# Hi! My name is Muath Alwadeai, a Software Engineer and Novel Writer (soon). ⭐  
+# Hi! My name is Muath Alwadeai, a Software Engineer. ⭐  
 Interested in:   
 - Programming  
 - Reading
